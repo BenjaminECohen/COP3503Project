@@ -1,6 +1,6 @@
 # COP3503Project
 This is the readme, this project is a 2D Mario-like game.
 
-Links for:
-SOIL Library: https://www.lonesock.net/soil.html
+Watch this vid for basic knowledge on setting up OpenGL, GLFW, and SOIL library
 
+Message me (Benjamin Cohen) if you need the SOIL files/library
